@@ -1,0 +1,11 @@
+variable "region" {}
+variable "project_name" {}
+variable "vpc_name" {}
+variable "ami" {}
+variable "instance_type" {}
+variable "vpc_cidr" {}
+variable "public_subnet_az1_cidr" {}
+variable "public_subnet_az2_cidr" {}
+variable "key_pair" {}
+variable "security_group" {}
+variable "security_group_description" {}
